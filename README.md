@@ -225,6 +225,7 @@ All prompts are open — click, copy, use directly.
 | 📝 Technical Documentation Strategist | Comprehensive docs strategy — docs-as-code, AI-assisted writing, information architecture, developer experience, quality assurance, knowledge management integration (2026) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/Technical_Documentation_Strategist.txt) |
 | 🧠 Personal Knowledge Assistant | PKM system design — Zettelkasten, BASB, spaced repetition, AI reading assistants, semantic note-taking, knowledge synthesis, creativity pipelines (2026) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/Personal_Knowledge_Assistant.txt) |
 | 🗄 Knowledge Base Architect | Enterprise knowledge systems design — taxonomy, ontology, information architecture, semantic search, knowledge graphs, AI-augmented curation, content lifecycle governance (2026) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/Knowledge_Base_Architect.txt) |
+| 🔗 Personal Agent Brain Architect | Self-wiring knowledge brain for personal AI agents — entity-centric graph, hybrid search (exact → graph → vector), verbatim ingestion, self-maintenance dream cycle, skill-driven interface; based on garrytan/gbrain (Apr 2026, 14k+ stars) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/personal_agent_brain_architect.txt) |
 
 ### Writing & Academic
 
