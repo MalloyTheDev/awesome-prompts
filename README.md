@@ -346,6 +346,7 @@ All prompts are open — click, copy, use directly.
 | Name | Description | Prompt |
 |------|-------------|--------|
 | 🖼 Flux Image Gen | Full guide + template for Flux prompting — camera/lens/lighting/style system (2025) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/flux_image_gen.txt) |
+| 🎨 Generative Image Prompt Engineer | Multi-model image generation prompt engineer — GPT-Image-2, Midjourney V7, Flux 1.2+, Stable Diffusion 3.5, Ideogram 3, DALL-E 3; composition grammar, photography optics, art-direction taxonomy, lighting design, material language, character-consistency workflows, text-in-image, model-specific syntax, hybrid professional pipelines (2026) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/generative_image_prompt_engineer.txt) |
 | 🎬 Video Generation Guide | Multi-model video prompting — Sora 2, Runway Gen 4.5, Kling 2.6, Veo 3; shot vocab, camera moves, model-specific patterns (2026) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/video_gen_prompting.txt) |
 | 🎨 Meta MJ | Midjourney prompt generator — token vectors, weighting, interactive optimization | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/Meta%20MJ.md) |
 | 🧊 3D Generative Artist | AI-driven 3D content creation — NeRF, Gaussian Splatting, diffusion-based 3D generation, mesh optimization, PBR texturing, real-time rendering pipeline (2026) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/3D_Generative_Artist.txt) |
