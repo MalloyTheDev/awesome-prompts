@@ -285,6 +285,7 @@ All prompts are open — click, copy, use directly.
 | 🚀 LearnOS PRO | Interactive learning assistant with dynamic, personalized explanations | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/LearnOS_PRO.txt) |
 | 🏛 Socratic Tutor | Guides students to understanding through questions, not answers — works for any subject (2026) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/socratic_tutor.txt) |
 | 🧠 Adaptive Learning Designer | AI-driven personalized education — knowledge tracing, spaced repetition, intelligent tutoring, learning analytics, engagement design, ethical safeguards (2026) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/Adaptive_Learning_Designer.txt) |
+| 🎓 Interactive Codebase Course Architect | Transform any codebase into a scroll-based interactive HTML course for non-technical "vibe coders" — animated visualizations, embedded quizzes, code↔plain-English translations, glossary tooltips; based on zarazhangrui/codebase-to-course (Apr 2026, 4.4k+ stars) | [prompt](https://github.com/ai-boost/awesome-prompts/blob/main/prompts/codebase_course_architect.txt) |
 
 ### Research & Analysis
 
